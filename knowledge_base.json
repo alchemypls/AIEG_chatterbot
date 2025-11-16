@@ -1,0 +1,72 @@
+{
+  "questions": [
+    {
+      "question": "what is your name",
+      "answer": "I'm Chatterbot, your friendly AI assistant!"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great! Thanks for asking. How can I help you today?"
+    },
+    {
+      "question": "what can you do",
+      "answer": "I can answer questions, help with recipes, and learn new things from our conversations!"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello! How can I assist you today?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi there! What would you like to know?"
+    },
+    {
+      "question": "what is python",
+      "answer": "Python is a high-level, interpreted programming language known for its simplicity and readability."
+    },
+    {
+      "question": "what is ai",
+      "answer": "AI (Artificial Intelligence) is technology that enables machines to simulate human intelligence and perform tasks like learning and problem-solving."
+    },
+    {
+      "question": "how to make pasta",
+      "answer": "Boil water with salt, add pasta, cook for 8-12 minutes until al dente, drain, and add your favorite sauce!"
+    },
+    {
+      "question": "how to make scrambled eggs",
+      "answer": "Beat eggs with a splash of milk, melt butter in a pan, pour eggs in, and gently stir until cooked to your liking."
+    },
+    {
+      "question": "recipe for pancakes",
+      "answer": "Mix 1 cup flour, 2 tbsp sugar, 1 tsp baking powder, 1 cup milk, 1 egg, and 2 tbsp melted butter. Cook on griddle until bubbles form, then flip!"
+    },
+    {
+      "question": "how to boil rice",
+      "answer": "Use a 2:1 water to rice ratio. Bring water to boil, add rice, reduce heat, cover, and simmer for 18-20 minutes."
+    },
+    {
+      "question": "what ingredients are in pizza",
+      "answer": "Basic pizza includes dough, tomato sauce, mozzarella cheese, and toppings like pepperoni, vegetables, or herbs."
+    },
+    {
+      "question": "how to make coffee",
+      "answer": "Add ground coffee to filter, pour hot water over it, and let it brew for 4-5 minutes. Adjust strength to taste!"
+    },
+    {
+      "question": "recipe for chocolate chip cookies",
+      "answer": "Cream butter and sugar, add eggs and vanilla, mix in flour and baking soda, fold in chocolate chips, bake at 350°F for 10-12 minutes."
+    },
+    {
+      "question": "how to cook chicken breast",
+      "answer": "Season chicken, heat oil in pan, cook 6-8 minutes per side until internal temp reaches 165°F. Let rest before serving."
+    },
+    {
+      "question": "what is the best way to store vegetables",
+      "answer": "Most vegetables stay fresh in the refrigerator crisper drawer. Keep them in perforated bags for airflow."
+    },
+    {
+      "question": "how to make a smoothie",
+      "answer": "Blend your choice of fruits, yogurt or milk, ice, and optional protein powder or greens until smooth!"
+    }
+  ]
+}
